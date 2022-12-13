@@ -1,5 +1,4 @@
-# pandas-challenge
-My submission for Assignment 4.
+# Pandas School District Analysis
 ## Overview
 In this project, we will analyze standardized test results from a city's school-district to help the school district and mayor make strategic decisions regarding future budget allocation and priorities. We will create snapshots of key metrics including the following:
 
